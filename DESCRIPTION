@@ -1,7 +1,7 @@
 Package: pck01
 Title: My Amazing Frist Package to Explore Non-Causal Assumptions
 Version: 0.0.1.9000
-Authors@R: person(given = "Julius", family = "Fenn", middle = NULL, email = "fennstatistics@posteo.de", 
+Authors@R: person(given = "Julius", family = "Fenn", middle = "Michael", email = "fennstatistics@posteo.de", 
            role = c("aut", "cre"), comment = c(ORCID = "0000-0002-7569-8648"), first = NULL, last = NULL)
 Description: What the package does (one paragraph).
 License: GPL (>= 3)
