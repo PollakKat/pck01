@@ -21,4 +21,7 @@
 #'
 #' @importFrom stats runif
 #' @export
-fnc2 <- function(x, y) {x/y*runif(n = 1)}
+fnc2 <- function(x, y) {
+  tmp <- x/y*runif(n = 1)
+  return(tmp)
+  }
