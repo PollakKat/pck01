@@ -24,4 +24,7 @@
 #'
 #' @importFrom stats runif
 #' @export
-fnc <- function(x, y) {x^2+y}
+fnc <- function(x, y) {
+  tmp <- x^2+y
+  return(tmp)
+  }
