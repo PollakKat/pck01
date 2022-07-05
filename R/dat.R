@@ -12,3 +12,5 @@
 #' }
 #' @source simulation and motivated by \url{http://www.diamondse.info/}
 "diamonds_fake"
+
+
